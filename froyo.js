@@ -16,4 +16,7 @@ function flavorCount(flavors) {
   return flavorCounts;
 }
 
-console.log(flavorCount(flavorList));
+
+const output = flavorCount(flavorList);
+
+console.log(output);
